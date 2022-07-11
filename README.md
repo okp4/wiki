@@ -1,5 +1,5 @@
-# Template project
+# wiki
 
-> Template for opensource projects [@okp4](okp4.com).
+> 📚 Wiki for technical documentation
 
-[![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+Go [HERE](https://github.com/okp4/wiki/wiki)!
