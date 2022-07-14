@@ -20,6 +20,15 @@ You will find:
 - the Naming rules;
 - and the CI/CD used (with github actions).
 
+### Join us
+
+This wiki is the perfect place to start and you will find a lot of useful information. But for any unanswered questions, for any help you may need, do not hesitate to contact us:
+
+- open an issue or a discussion in the most appropriate repository.
+- join us on [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/GHNZh4SaJ3) and ask your questions.
+
+The whole team is here to help you!
+
 ## License
 
 The documentation (markdown, wiki, assets) are licensed under a [CC-BY license](LICENSE).
