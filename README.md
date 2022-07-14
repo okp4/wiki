@@ -4,7 +4,13 @@
 
 > 📚 Offical OKP4 Wiki
 
+## Welcome
+
 This repository contains the Wiki documentation of the [OKP4](https://okp4.network) company. This wiki serves as a reference documentation for **all developers** contributing to our open-source projects.
+
+<p align="center">
+    <tt>►</tt>&nbsp;&nbsp;&nbsp;<a href="https://github.com/okp4/wiki/wiki">GO HERE</a>&nbsp;&nbsp;&nbsp;<tt>◄</tt>
+</p>
 
 You will find:
 
@@ -13,10 +19,6 @@ You will find:
 - the use of Git in our projects;
 - the Naming rules;
 - and the CI/CD used (with github actions).
-
-<p align="center">
-  <a href="https://github.com/okp4/wiki/wiki">🤜 GO TO THE WIKI! 🤛</a>
-</p>
 
 ## License
 
