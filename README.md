@@ -15,5 +15,11 @@ You will find:
 - and the CI/CD used (with github actions).
 
 <p align="center">
-🤜 [GO THE WIKI](https://github.com/okp4/wiki/wiki)! 🤛
+  <a href="https://github.com/okp4/wiki/wiki">🤜 GO TO THE WIKI! 🤛</a>
 </p>
+
+## License
+
+The documentation (markdown, wiki, assets) are licensed under a [CC-BY license](LICENSE).
+
+All other code in this repository is licensed under the [BSD-3-Clause license](LICENSE-CODE).
