@@ -4,7 +4,7 @@
 
 > 📚 Offical OKP4 Wiki
 
-## Welcome
+## 👋 Welcome
 
 This repository contains the Wiki documentation of the [OKP4](https://okp4.network) company. This wiki serves as a reference documentation for **all developers** contributing to our open-source projects.
 
@@ -20,7 +20,7 @@ You will find:
 - the Naming rules;
 - and the CI/CD used (with github actions).
 
-### Join us
+### 🤗 Join us
 
 This wiki is the perfect place to start and you will find a lot of useful information. But for any unanswered questions, for any help you may need, do not hesitate to contact us:
 
@@ -29,7 +29,7 @@ This wiki is the perfect place to start and you will find a lot of useful inform
 
 The whole team is here to help you!
 
-## License
+## ⚖️ License
 
 The documentation (markdown, wiki, assets) are licensed under a [CC-BY license](LICENSE).
 
