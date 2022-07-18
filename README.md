@@ -14,7 +14,7 @@ This repository contains the Wiki documentation of the [OKP4](https://okp4.netwo
 
 You will find:
 
-- what every contributor should I know;
+- what every contributor should know;
 - our vision of Open Source;
 - the use of Git in our projects;
 - the Naming rules;
