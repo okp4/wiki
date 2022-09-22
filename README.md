@@ -2,8 +2,6 @@
 
 # wiki
 
-[![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/okp4/.github/blob/main/CODE_OF_CONDUCT.md)
-
 > 📚 Offical OKP4 Wiki
 
 ## 👋 Welcome
