@@ -25,7 +25,7 @@ You will find:
 This wiki is the perfect place to start and you will find a lot of useful information. But for any unanswered questions, for any help you may need, do not hesitate to contact us:
 
 - open an issue or a discussion in the most appropriate repository.
-- join us on [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/GHNZh4SaJ3) and ask your questions.
+- join us on [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/okp4) and ask your questions.
 
 The whole team is here to help you!
 
