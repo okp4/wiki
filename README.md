@@ -1,4 +1,4 @@
-[![okp4 github banner](./assets/okp4-banner.webp)](https://okp4.network)
+[![okp4 github banner](./assets/okp4-banner-v2.webp)](https://okp4.network)
 
 # wiki
 
