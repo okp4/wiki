@@ -34,3 +34,11 @@ The whole team is here to help you!
 The documentation (markdown, wiki, assets) are licensed under a [CC-BY license](LICENSE).
 
 All other code in this repository is licensed under the [BSD-3-Clause license](LICENSE-CODE).
+
+## 🤝 Archive
+
+The content of the wiki on GitHub has been moved to the <https://github.com/okp4/team-wiki> repository.
+The wiki repository is no longer in use as it has been deployed on :
+<p align="center">
+    <tt>►</tt>&nbsp;&nbsp;&nbsp;<a href="https://work.okp4.com/dev/dev-home">DEV HOME</a>&nbsp;&nbsp;&nbsp;<tt>◄</tt>
+</p>
